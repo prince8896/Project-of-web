@@ -1,0 +1,31 @@
+# Comic Store Backend
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+
+# Install dependencies: 
+ npm install
+
+# Set up MongoDB and run the project:
+npm start
+ 
+ ## Endpoints
+
+POST /api/comics: Create a new comic book.
+
+PUT /api/comics/
+
+: Update an existing comic book.
+
+DELETE /api/comics/
+
+: Delete a comic book.
+
+GET /api/comics: Get all comics with filtering, pagination, and sorting.
+
+GET /api/comics/
+
+: Get details of a specific comic book.
+
